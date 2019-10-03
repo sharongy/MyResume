@@ -17,7 +17,7 @@
 ### Photographies at the bottom are highly asthetic
 
 ## Consideration of various visual design elements 
-### Icon, internal link, carousel, etc
+### Icon, internal link, carousel, Bootstrap grid, etc
 
 ## Layout, navigation and information hierarchy
 ### easy to navigate and read
