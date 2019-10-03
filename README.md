@@ -1,15 +1,23 @@
 # MyResume
+## The first webstie I created
 
-#### Website's goal
+## Website's goal
+### Introduce my educaiton, my working experience, and my skill 
+### Introduce some of my world exploration experience
 
-#### First impression
+## First impression
+### Well-organized
 
-#### Wording is clear and crisp
+## Wording is clear and crisp
 
-#### mobile version maintains clarity of essential elements
+## mobile version maintains clarity of essential elements
+### Mobile version is highly adaptable
 
-#### Asthetics is authentic and original
+## Asthetics is authentic and original
+### Photographies at the bottom are highly asthetic
 
-#### Sideration of various visual design elements 
+## Consideration of various visual design elements 
+### Icon, internal link, carousel, etc
 
-#### Layout, navigation and information hierarchy
+## Layout, navigation and information hierarchy
+### easy to navigate and read
